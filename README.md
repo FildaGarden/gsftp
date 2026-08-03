@@ -14,7 +14,7 @@ A dual-pane SFTP client for the terminal, built with Go and [Bubble Tea](https:/
 
 ### Prerequisites
 
-- Go 1.20 or newer
+- Go 1.22 or newer
 
 ### Build from source
 
