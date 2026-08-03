@@ -1,0 +1,26 @@
+# Compiled binaries
+gsftp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary built by `go test`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (vendor)
+# vendor/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
